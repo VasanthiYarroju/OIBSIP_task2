@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string-array name="operations_array">
+        <item>Addition</item>
+        <item>Subtraction</item>
+        <item>Multiplication</item>
+        <item>Division</item>
+    </string-array>
+    <string name="welcome_image_desc">Welcome Image</string>
+</resources>
